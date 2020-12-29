@@ -7,13 +7,13 @@ The analyses are done on the Seattle, Washington, United States data that update
 The data set captures information 4335 places and houses with details like host information, price, house details, and reviews.
  
 ## Business questions
-These are the five main questi
-ons for our analysis:
-What type of properties has the highest prices?
-Does "host_response_time" impact on the location's number of reviewers?
-Which neighbourhoods got the most reviews?
-What factors have the most impact on price?
-How well can we predict the price and the number of bedrooms?
+These are the five main questions for our analysis:
+
+- What type of properties has the highest prices?
+- Does "host_response_time" impact on the location's number of reviewers?
+- Which neighbourhoods got the most reviews?
+- What factors have the most impact on price?
+- How well can we predict the price and the number of bedrooms?
  
 ## Install
 This project requires Python 3.6 or newer and the following Python libraries installed:
