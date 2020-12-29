@@ -17,12 +17,12 @@ How well can we predict the price and the number of bedrooms?
  
 ## Install
 This project requires Python 3.6 or newer and the following Python libraries installed:
-matplotlib
-numPy
-pandas
-sklearn
-seaborn
-re
+- matplotlib
+- numPy
+- pandas
+- sklearn
+- seaborn
+- re
 
 ## Summary of results
 The results of the analysis are located inside the seattle_airbnb_listings_SD.ipynb file.
